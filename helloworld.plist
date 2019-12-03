@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://118.123.245.131:81/helloworld.ipa</string>
+                        <string>https://www.ios55.net:81/helloworld.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -18,7 +18,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://118.123.245.131:81/logo.png</string>
+                        <string>https://www.ios55.net:81/logo.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
